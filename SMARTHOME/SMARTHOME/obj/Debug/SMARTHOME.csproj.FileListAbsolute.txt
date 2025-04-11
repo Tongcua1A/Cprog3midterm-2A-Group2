@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\SMARTHOME\SMARTHOME\bin\Debug\SMARTHOME.exe.config
+C:\Users\Acer\source\repos\SMARTHOME\SMARTHOME\bin\Debug\SMARTHOME.exe
+C:\Users\Acer\source\repos\SMARTHOME\SMARTHOME\bin\Debug\SMARTHOME.pdb
+C:\Users\Acer\source\repos\SMARTHOME\SMARTHOME\obj\Debug\SMARTHOME.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\SMARTHOME\SMARTHOME\obj\Debug\SMARTHOME.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SMARTHOME\SMARTHOME\obj\Debug\SMARTHOME.exe
+C:\Users\Acer\source\repos\SMARTHOME\SMARTHOME\obj\Debug\SMARTHOME.pdb
