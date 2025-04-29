@@ -1,1 +1,7 @@
-# Cprog3midterm-2A-Group2
+# Cprog3Final-2A-Group2
+
+04-28-2025
+First Week Update to our project:
+PLANING : FACULTY TIME IN, TIME OUT
+
+Here's the basic plan: if papasok na sila sa work dapat mag Time in sila sa Isang system na ginawa natin pero simple lang yung visual like lalabas lang don is name tapos yung unique na code nila or yung password na binigay natin sa kanila bawat employee example ilalagay ko don sa system Rene Gallenero tas yung pass nila 31526 lalabas na don yung time na nag time in sila kunwari 8 am yung start nung work tapos matatapos 5pm so pag log in nila 8 am at umabot ng 5 pm yung work nila na di nag early time out edi yung sahod nila is complete 9 hours na work nila kunwari 100 per hour edi 900 na per day yon pag complete so kapag na delay sila one hour kunwari log in nila sa work is 9 am na so magiging 800 lang kahit aabot sila sa 5pm except nalang if mag overtime sila bawat overtime na Isang oras 100 pesos na sahod so kung aabutin man sipa ng 8 pm like start Sila 9 am or 8 am pero Sabihin natin Wala silang late pero mag overtime sila edi 1200 total of 12 hours kasama overtime nila simple lang yung time in time out para user friendly kasi yon naman main purpose non pero yung mas ma trabaho dito is yung sa data base mismo like dapat naka automatic set na yung time in time out, overtime,pati yung sahod, so if may bagong employee tayo gagawa ng passcode niya at tayo din maglalagay non sa data based like don yung magiging info niya
