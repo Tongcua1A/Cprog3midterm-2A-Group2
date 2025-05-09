@@ -139,3 +139,41 @@ Dark Mode UI option 😄
 May 5, 2025(Update)
 We are currently working on the login and registration pages of our website. We’re struggling with how to encrypt the password, but we are working together to find solutions to every bug we encounter. Remelyn (me) serves as the main coder of our group, while Kathy and Rene act as the bug fixers and sub-coders. Kenth serves as the group’s resource provider and helps with some syntax as well. 
 
+
+May 7, 2025(update)
+Current Progress:
+Successfully implemented password encryption.
+Developed and tested functional login and registration tabs.
+Established minimum password requirements (must include both letters and numbers).
+
+Team Contributions:
+Remelyn - serves as the main coder and lends her laptop to me(Kathy) for assistance with debugging and UI/code revisions.
+Kathy - contributes by helping with debugging and making improvements to the code and user interface.
+Rene and Kenth - collaborate as a support team, helping to resolve errors encountered during coding sessions.
+
+Next Steps:
+Continue refining the UI for better user experience.
+Begin integration with the database.
+
+May 9, 2025(update)
+Current Progress:
+Successfully implemented password encryption.
+Developed and tested functional login and registration tabs.
+Set minimum password requirements (must include both letters and numbers).
+Database integration has been successfully completed.
+Preparing to proceed with backend development.
+
+Team Contributions:
+Remelyn - serves as the main coder and lends her laptop to Kathy for assistance with debugging and UI/code revisions.
+Kathy - helps with debugging and making improvements to the code and user interface.
+Rene and Kenth - work together to assist with resolving errors during coding sessions and would perform code revisions if any upgrade in UI is needed.
+
+Next Steps:
+Begin implementing the backend logic.
+Conduct thorough testing of backend functionalities.
+
+
+
+
+
+
