@@ -134,3 +134,8 @@ Notifications: Alert when faculty is late.
 Audit Logs: Who changed what data (for admin logs).
 
 Dark Mode UI option 😄
+
+
+May 5, 2025(Update)
+We are currently working on the login and registration pages of our website. We’re struggling with how to encrypt the password, but we are working together to find solutions to every bug we encounter. Remelyn (me) serves as the main coder of our group, while Kathy and Rene act as the bug fixers and sub-coders. Kenth serves as the group’s resource provider and helps with some syntax as well. 
+
